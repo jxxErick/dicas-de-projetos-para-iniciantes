@@ -1,8 +1,16 @@
-import Projetos.Calculadora;
+import Projetos.listaDeTarefa.ListaDeTarefa;
 
 public class Main {
     public static void main(String[] args) {
-        Calculadora calculadora = new Calculadora();
-        calculadora.CalculadoraApp();
+        //para chamar qualquer projeto apenas retire as barras dele
+
+
+        /*Calculadora*/
+       // Calculadora calculadora = new Calculadora();
+        // calculadora.CalculadoraApp();
+
+        /*Lista de tarefa*/
+        //ListaDeTarefa listaDeTarefa = new ListaDeTarefa();
+        //listaDeTarefa.executar();
     }
 }

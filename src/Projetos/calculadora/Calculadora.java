@@ -1,4 +1,4 @@
-package Projetos;
+package Projetos.calculadora;
 
 import java.util.Scanner;
 

@@ -48,7 +48,7 @@ Crie uma aplicação simples em Java para gerenciar uma lista de tarefas. Este p
 4. Implemente uma interface de usuário simples que permita ao usuário escolher entre as operações (adicionar, marcar como concluída, listar).
 5. Exiba as tarefas e seus estados (pendentes ou concluídas) no console.
 
-Exemplo de código: [Aqui](https://github.com/jxxErick/dicas-de-p
+Exemplo de código: [Aqui](https://github.com/jxxErick/dicas-de-projetos-para-iniciantes/tree/main/src/Projetos/listDeTarefa)
 
 <h2 align="center">Projeto 3 - Jogo da Velha </h2>
 
@@ -69,7 +69,7 @@ Este é um simples jogo da velha implementado em Java que pode ser jogado no con
 3. Use um array bidimensional para representar o tabuleiro.
 4. Implemente a verificação de vitória e empate.
 
-Exemplo de código: [Aqui](https://github.com/jxxErick/dicas-de-projetos-para-iniciantes/tree/main/src/Projetos/jogoDaVelha
+Exemplo de código: [Aqui](https://github.com/jxxErick/dicas-de-projetos-para-iniciantes/tree/main/src/Projetos/jogoDaVelha)
 
 ### Como Jogar
 

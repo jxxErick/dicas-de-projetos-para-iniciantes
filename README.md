@@ -1,8 +1,9 @@
-# Ideias de Portfólio para Iniciantes em Programação
+<h1 align="center"> Ideias de Portfólio para Iniciantes em Programação </h1>
 
-Este repositório contém várias ideias de projetos de portfólio para novatos em programação. Feito para a página [Infotech](https://www.instagram.com/infotech23_/) onde ajudo a produzir os conteúdos.
+Este repositório contém várias ideias de projetos de portfólio para novatos em programação, voltado ao backend em java. Feito para a página [Infotech](https://www.instagram.com/infotech23_/) onde ajudo a produzir os conteúdos.
 
-## Projeto 1: Calculadora
+
+<h2 align="center"> Ideias de Portfólio para Iniciantes em Programação </h2>
 
 ### Descrição da Ideia
 
@@ -23,4 +24,4 @@ Crie uma calculadora simples em Java que pode realizar as quatro operações mat
 4. Implemente uma lógica para realizar a operação selecionada.
 5. Exiba o resultado no console.
 
-Exemplo de código: [Aqui](https://www.instagram.com/infotech23_/) 
+Exemplo de código: [Aqui](https://github.com/jxxErick/dicas-de-projetos-para-iniciantes/blob/main/src/Projetos/Calculadora.java) 

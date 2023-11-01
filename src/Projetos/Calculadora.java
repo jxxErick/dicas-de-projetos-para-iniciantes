@@ -5,15 +5,14 @@ import java.util.Scanner;
 public class Calculadora {
 
     public void CalculadoraApp() {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Bem-vindo à Calculadora Java!");
-
+        System.out.println("Bem-vindo à Calculadora");
+        //pede o primeiro numero
         double num1 = getNumero("Digite o primeiro número: ");
+        //abre a possibilidade de operações
         int escolha = getMenu();
 
         double resultado = 0.0;
-
+        //faz as operações de acordo com a escolha do usuario
         if (escolha == 1) {
             double num2 = getNumero("Digite o número que deseja somar: ");
             resultado = num1 + num2;
@@ -40,16 +39,17 @@ public class Calculadora {
             System.out.println("Opção inválida.");
             System.exit(0);
         }
-
+        //imprime o resultado
         System.out.println("Resultado: " + resultado);
     }
-
+    //Lê os numeros do usuario
     public static double getNumero(String prompt) {
         Scanner scanner = new Scanner(System.in);
         System.out.print(prompt);
         return scanner.nextDouble();
     }
 
+    //Pede ao usuário qual operação desejada
     public static int getMenu() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Escolha uma operação:");

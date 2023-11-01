@@ -1,3 +1,5 @@
+import Projetos.jogoDaForca.JogoDaForca;
+import Projetos.jogoDaVelha.JogoDaVelha;
 import Projetos.listaDeTarefa.ListaDeTarefa;
 
 public class Main {
@@ -12,5 +14,13 @@ public class Main {
         /*Lista de tarefa*/
         //ListaDeTarefa listaDeTarefa = new ListaDeTarefa();
         //listaDeTarefa.executar();
+
+        /*Jogo da Velha*/
+        //JogoDaVelha jogo = new JogoDaVelha();
+        // jogo.jogar();
+
+        /*Jogo da forca*/
+        JogoDaForca jogo = new JogoDaForca();
+        jogo.jogar();
     }
 }

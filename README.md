@@ -102,3 +102,7 @@ Crie um jogo da forca simples em Java que desafie os jogadores a adivinharem uma
 4. Exiba o progresso do jogo no console e anuncie o resultado.
 
 **Exemplo de código**: [Aqui](https://github.com/jxxErick/dicas-de-projetos-para-iniciantes/tree/main/src/Projetos/jogoDaForca)
+
+
+<H1 align="center"> Repositório de ideias de projetos para iniciantes praticarem </h1>
+Feito no intuito de contribuir com a comunidade infotech, trabalho realizado pela faculdade uniessa que visa ajudar desenvolvedores que estão começando.
